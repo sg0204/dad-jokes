@@ -1,1 +1,1 @@
-This is a prjecy that tell jokes.
+This is a project that tell jokes.
